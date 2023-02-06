@@ -1,0 +1,35 @@
+{
+    "accountNumber": {
+      "value": "720826992"
+    },
+    "requestedShipment": {
+      "shipper": {
+        "address": {
+          "city": "Newark",
+          "stateOrProvinceCode": "CA",
+          "postalCode": 94560,
+          "countryCode": "US"
+        }
+      },
+      "recipient": {
+        "address": {
+          "city": "Union City",
+          "stateOrProvinceCode": "CA",
+          "postalCode": 94587,
+          "countryCode": "US"
+        }
+      },
+      "pickupType": "DROPOFF_AT_FEDEX_LOCATION",
+      "rateRequestType": [
+        "LIST"
+      ],
+      "requestedPackageLineItems": [
+        {
+          "weight": {
+            "units": "LB",
+            "value": 10
+          }
+        }
+      ]
+    }
+  }

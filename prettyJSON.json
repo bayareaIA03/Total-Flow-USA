@@ -1,0 +1,823 @@
+{
+	"rateReplyDetails": [
+		{
+			"serviceType": "FIRST_OVERNIGHT",
+			"serviceName": "FedEx First Overnight®",
+			"packagingType": "YOUR_PACKAGING",
+			"ratedShipmentDetails": [
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 84.23,
+					"totalNetCharge": 102.13,
+					"totalNetFedExCharge": 102.13,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 0,
+						"fuelSurchargePercent": 21.25,
+						"totalSurcharges": 17.9,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 17.9
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "6"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 84.23,
+								"netFreight": 84.23,
+								"totalSurcharges": 17.9,
+								"netFedExCharge": 102.13,
+								"totalTaxes": 0,
+								"netCharge": 102.13,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 17.9
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "1ST OVR",
+				"airportId": "SJC",
+				"serviceCode": "06"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000006",
+				"serviceType": "FIRST_OVERNIGHT",
+				"code": "06",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx First OvernightÂ®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx First Overnight"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx First OvernightÂ®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx First Overnight"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "FO"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "FO"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "FO"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "First Overnight",
+				"astraDescription": "1ST OVR"
+			}
+		},
+		{
+			"serviceType": "PRIORITY_OVERNIGHT",
+			"serviceName": "FedEx Priority Overnight®",
+			"packagingType": "YOUR_PACKAGING",
+			"ratedShipmentDetails": [
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 53.23,
+					"totalNetCharge": 64.54,
+					"totalNetFedExCharge": 64.54,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 0,
+						"fuelSurchargePercent": 21.25,
+						"totalSurcharges": 11.31,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 11.31
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "1486"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 53.23,
+								"netFreight": 53.23,
+								"totalSurcharges": 11.31,
+								"netFedExCharge": 64.54,
+								"totalTaxes": 0,
+								"netCharge": 64.54,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 11.31
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "P1",
+				"airportId": "SJC",
+				"serviceCode": "01"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000002",
+				"serviceType": "PRIORITY_OVERNIGHT",
+				"code": "01",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx Priority OvernightÂ®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx Priority Overnight"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx Priority OvernightÂ®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx Priority Overnight"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "P-1"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "P-1"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "PO"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "Priority Overnight",
+				"astraDescription": "P1"
+			}
+		},
+		{
+			"serviceType": "STANDARD_OVERNIGHT",
+			"serviceName": "FedEx Standard Overnight®",
+			"packagingType": "YOUR_PACKAGING",
+			"ratedShipmentDetails": [
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 51.38,
+					"totalNetCharge": 62.3,
+					"totalNetFedExCharge": 62.3,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 0,
+						"fuelSurchargePercent": 21.25,
+						"totalSurcharges": 10.92,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 10.92
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "1283"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 51.38,
+								"netFreight": 51.38,
+								"totalSurcharges": 10.92,
+								"netFedExCharge": 62.3,
+								"totalTaxes": 0,
+								"netCharge": 62.3,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 10.92
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "STD OVR",
+				"airportId": "SJC",
+				"serviceCode": "05"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000005",
+				"serviceType": "STANDARD_OVERNIGHT",
+				"code": "05",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx Standard OvernightÂ®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx Standard Overnight"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx Standard OvernightÂ®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx Standard Overnight"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "SOS"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "SOS"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "SO"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "Standard Overnight",
+				"astraDescription": "STD OVR"
+			}
+		},
+		{
+			"serviceType": "FEDEX_2_DAY_AM",
+			"serviceName": "FedEx 2Day® AM",
+			"packagingType": "YOUR_PACKAGING",
+			"ratedShipmentDetails": [
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 34.73,
+					"totalNetCharge": 42.11,
+					"totalNetFedExCharge": 42.11,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 0,
+						"fuelSurchargePercent": 21.25,
+						"totalSurcharges": 7.38,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 7.38
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "4"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 34.73,
+								"netFreight": 34.73,
+								"totalSurcharges": 7.38,
+								"netFedExCharge": 42.11,
+								"totalTaxes": 0,
+								"netCharge": 42.11,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 7.38
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "2DAY AM",
+				"airportId": "SJC",
+				"serviceCode": "49"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000023",
+				"serviceType": "FEDEX_2_DAY_AM",
+				"code": "49",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx 2DayÂ® AM"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx 2Day AM"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx 2DayÂ® AM"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx 2Day AM"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "E2AM"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "E2AM"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "TA"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "2DAY AM",
+				"astraDescription": "2DAY AM"
+			}
+		},
+		{
+			"serviceType": "FEDEX_2_DAY",
+			"serviceName": "FedEx 2Day®",
+			"packagingType": "YOUR_PACKAGING",
+			"ratedShipmentDetails": [
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 30.4,
+					"totalNetCharge": 36.86,
+					"totalNetFedExCharge": 36.86,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 0,
+						"fuelSurchargePercent": 21.25,
+						"totalSurcharges": 6.46,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 6.46
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "5980"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 30.4,
+								"netFreight": 30.4,
+								"totalSurcharges": 6.46,
+								"netFedExCharge": 36.86,
+								"totalTaxes": 0,
+								"netCharge": 36.86,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 6.46
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "E2",
+				"airportId": "SJC",
+				"serviceCode": "03"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000003",
+				"serviceType": "FEDEX_2_DAY",
+				"code": "03",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx 2DayÂ®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx 2Day"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx 2DayÂ®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx 2Day"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "P-2"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "P-2"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "ES"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "2Day",
+				"astraDescription": "E2"
+			}
+		},
+		{
+			"serviceType": "FEDEX_EXPRESS_SAVER",
+			"serviceName": "FedEx Express Saver®",
+			"packagingType": "YOUR_PACKAGING",
+			"ratedShipmentDetails": [
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 27.33,
+					"totalNetCharge": 33.14,
+					"totalNetFedExCharge": 33.14,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 0,
+						"fuelSurchargePercent": 21.25,
+						"totalSurcharges": 5.81,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 5.81
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "7167"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 27.33,
+								"netFreight": 27.33,
+								"totalSurcharges": 5.81,
+								"netFedExCharge": 33.14,
+								"totalTaxes": 0,
+								"netCharge": 33.14,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 5.81
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "XS",
+				"airportId": "SJC",
+				"serviceCode": "20"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000013",
+				"serviceType": "FEDEX_EXPRESS_SAVER",
+				"code": "20",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx Express SaverÂ®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx Express Saver"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx Express SaverÂ®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx Express Saver"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "Express Saver",
+				"astraDescription": "XS"
+			}
+		},
+		{
+			"serviceType": "FEDEX_GROUND",
+			"serviceName": "FedEx Ground®",
+			"packagingType": "YOUR_PACKAGING",
+			"ratedShipmentDetails": [
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 13.51,
+					"totalNetCharge": 15.71,
+					"totalNetFedExCharge": 15.71,
+					"shipmentRateDetail": {
+						"rateZone": "2",
+						"dimDivisor": 0,
+						"fuelSurchargePercent": 16.25,
+						"totalSurcharges": 2.2,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"level": "PACKAGE",
+								"amount": 2.2
+							}
+						],
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 13.51,
+								"netFreight": 13.51,
+								"totalSurcharges": 2.2,
+								"netFedExCharge": 15.71,
+								"totalTaxes": 0,
+								"netCharge": 15.71,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"level": "PACKAGE",
+										"amount": 2.2
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "FXG",
+				"airportId": "SJC",
+				"serviceCode": "92"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000134",
+				"serviceType": "FEDEX_GROUND",
+				"code": "92",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx GroundÂ®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx Ground"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "GroundÂ®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "Ground"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "FG"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "FG"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "SG"
+					}
+				],
+				"description": "FedEx Ground",
+				"astraDescription": "FXG"
+			}
+		}
+	],
+	"quoteDate": "2023-01-30",
+	"encoded": false
+}

@@ -1,0 +1,28 @@
+{
+  "name": "shippo-1",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://immad_bin_arshad@bitbucket.org/milahee-mekkapp/shippo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/milahee-mekkapp/shippo/issues"
+  },
+  "homepage": "https://bitbucket.org/milahee-mekkapp/shippo#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "lodash": "^4.17.21",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1"
+  }
+}

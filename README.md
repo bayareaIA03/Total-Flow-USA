@@ -1,9 +1,8 @@
-This is a program that collects the rate and price of delivery companies and insures that you/customer is getting the cheapest option for delivering their product. 
-This program is mainly used with javascript and node.js. Used bootstrap framework on the front-end. 
+This is a program that collects the rate and price of delivery companies and insures that the customer is getting the cheapest option, with their personal discount, for delivering their product.  
 
 The following would need to happen before using this program:
 1)  One would need to have an account in order to get authorization token from shipping companies.
-2)  Fill in the empty areas with your secured information.
+2)  Fill in username, password and accesscode with your secured information.
 
 
 Attributes of this program:
@@ -11,3 +10,7 @@ Attributes of this program:
 2)  Put informations in the database which can later can be updated and presented.
 3)  Recieve authorize token from shipping companies in-order to get api commandments.
 4)  api are used to get rates of shipping product.
+5)  all types of rates, with personal discount, will be presented
+
+
+Note : Updated version for this program is coming soon.

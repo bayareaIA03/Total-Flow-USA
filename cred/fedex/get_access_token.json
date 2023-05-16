@@ -1,5 +1,5 @@
 {
   "grant_type" : "client_credentials",
-  "client_id" : "l75af6811cd2bf4d02a357ab49f9c7f616",
-  "client_secret":"dd8e04e5f9e04ba382714b9610ac1abe"
+  "client_id" : "",
+  "client_secret":""
 }

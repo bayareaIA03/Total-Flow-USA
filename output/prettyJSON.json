@@ -1,0 +1,1971 @@
+{
+	"rateReplyDetails": [
+		{
+			"serviceType": "FIRST_OVERNIGHT",
+			"serviceName": "FedEx First Overnight®",
+			"packagingType": "YOUR_PACKAGING",
+			"commit": {
+				"dateDetail": {
+					"dayOfWeek": "Tue",
+					"dayFormat": "2023-05-02T08:00:00"
+				},
+				"derivedOriginDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94587",
+					"serviceArea": "A1",
+					"locationId": "RHVA ",
+					"locationNumber": 0
+				},
+				"derivedDestinationDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94501",
+					"serviceArea": "A1",
+					"locationId": "JBSA ",
+					"locationNumber": 0,
+					"airportId": "OAK"
+				},
+				"saturdayDelivery": false
+			},
+			"ratedShipmentDetails": [
+				{
+					"rateType": "ACCOUNT",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 3.34,
+					"totalBaseCharge": 84.23,
+					"totalNetCharge": 100.42,
+					"totalNetFedExCharge": 100.42,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 139,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 16.19,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 13.29
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 2.9
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "6"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 3.34,
+							"packageRateDetail": {
+								"rateType": "PAYOR_ACCOUNT_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 84.23,
+								"netFreight": 84.23,
+								"totalSurcharges": 16.19,
+								"netFedExCharge": 100.42,
+								"totalTaxes": 0,
+								"netCharge": 100.42,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 13.29
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 2.9
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				},
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 84.23,
+					"totalNetCharge": 103.76,
+					"totalNetFedExCharge": 103.76,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 139,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 19.53,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 13.73
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 5.8
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "6"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 84.23,
+								"netFreight": 84.23,
+								"totalSurcharges": 19.53,
+								"netFedExCharge": 103.76,
+								"totalTaxes": 0,
+								"netCharge": 103.76,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 13.73
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 5.8
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"originLocationIds": [
+					"RHVA "
+				],
+				"originLocationNumbers": [
+					0
+				],
+				"originServiceAreas": [
+					"A1"
+				],
+				"destinationLocationIds": [
+					"JBSA "
+				],
+				"destinationLocationNumbers": [
+					0
+				],
+				"destinationServiceAreas": [
+					"A1"
+				],
+				"destinationLocationStateOrProvinceCodes": [
+					"CA"
+				],
+				"deliveryDate": "2023-05-02T08:00:00",
+				"deliveryDay": "TUE",
+				"commitDate": "2023-05-02T08:00:00",
+				"commitDays": [
+					"TUE"
+				],
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "1ST OVR",
+				"originPostalCodes": [
+					"94587"
+				],
+				"stateOrProvinceCodes": [
+					"CA"
+				],
+				"countryCodes": [
+					"US"
+				],
+				"airportId": "OAK",
+				"serviceCode": "06",
+				"destinationPostalCode": "94501"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000006",
+				"serviceType": "FIRST_OVERNIGHT",
+				"code": "06",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx First Overnight®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx First Overnight"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx First Overnight®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx First Overnight"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "FO"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "FO"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "FO"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "First Overnight",
+				"astraDescription": "1ST OVR"
+			},
+			"deliveryStation": "JBSA "
+		},
+		{
+			"serviceType": "PRIORITY_OVERNIGHT",
+			"serviceName": "FedEx Priority Overnight®",
+			"packagingType": "YOUR_PACKAGING",
+			"commit": {
+				"dateDetail": {
+					"dayOfWeek": "Tue",
+					"dayFormat": "2023-05-02T12:00:00"
+				},
+				"derivedOriginDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94587",
+					"serviceArea": "A1",
+					"locationId": "RHVA ",
+					"locationNumber": 0
+				},
+				"derivedDestinationDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94501",
+					"serviceArea": "A1",
+					"locationId": "JBSA ",
+					"locationNumber": 0,
+					"airportId": "OAK"
+				},
+				"saturdayDelivery": false
+			},
+			"ratedShipmentDetails": [
+				{
+					"rateType": "ACCOUNT",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 43.34,
+					"totalBaseCharge": 53.23,
+					"totalNetCharge": 24.69,
+					"totalNetFedExCharge": 24.69,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 194,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 6.17,
+						"totalFreightDiscount": 34.71,
+						"freightDiscount": [
+							{
+								"type": "VOLUME",
+								"description": "Volume discount",
+								"amount": 30.34,
+								"percent": 57
+							},
+							{
+								"type": "EARNED",
+								"description": "Earned discount",
+								"amount": 4.37,
+								"percent": 12
+							}
+						],
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 3.27
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 2.9
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "1486"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 43.34,
+							"packageRateDetail": {
+								"rateType": "PAYOR_ACCOUNT_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 53.23,
+								"netFreight": 18.52,
+								"totalSurcharges": 6.17,
+								"netFedExCharge": 24.69,
+								"totalTaxes": 0,
+								"netCharge": 24.69,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 34.71,
+								"freightDiscounts": [
+									{
+										"type": "VOLUME",
+										"description": "Base",
+										"amount": 30.34,
+										"percent": 57
+									},
+									{
+										"type": "EARNED",
+										"description": "Grace",
+										"amount": 4.37,
+										"percent": 12
+									}
+								],
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 3.27
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 2.9
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				},
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 53.23,
+					"totalNetCharge": 68.03,
+					"totalNetFedExCharge": 68.03,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 139,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 14.8,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 9
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 5.8
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "1486"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 53.23,
+								"netFreight": 53.23,
+								"totalSurcharges": 14.8,
+								"netFedExCharge": 68.03,
+								"totalTaxes": 0,
+								"netCharge": 68.03,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 9
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 5.8
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"originLocationIds": [
+					"RHVA "
+				],
+				"originLocationNumbers": [
+					0
+				],
+				"originServiceAreas": [
+					"A1"
+				],
+				"destinationLocationIds": [
+					"JBSA "
+				],
+				"destinationLocationNumbers": [
+					0
+				],
+				"destinationServiceAreas": [
+					"A1"
+				],
+				"destinationLocationStateOrProvinceCodes": [
+					"CA"
+				],
+				"deliveryDate": "2023-05-02T12:00:00",
+				"deliveryDay": "TUE",
+				"commitDate": "2023-05-02T12:00:00",
+				"commitDays": [
+					"TUE"
+				],
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "P1",
+				"originPostalCodes": [
+					"94587"
+				],
+				"stateOrProvinceCodes": [
+					"CA"
+				],
+				"countryCodes": [
+					"US"
+				],
+				"airportId": "OAK",
+				"serviceCode": "01",
+				"destinationPostalCode": "94501"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000002",
+				"serviceType": "PRIORITY_OVERNIGHT",
+				"code": "01",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx Priority Overnight®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx Priority Overnight"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx Priority Overnight®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx Priority Overnight"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "P-1"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "P-1"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "PO"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "Priority Overnight",
+				"astraDescription": "P1"
+			},
+			"deliveryStation": "JBSA "
+		},
+		{
+			"serviceType": "STANDARD_OVERNIGHT",
+			"serviceName": "FedEx Standard Overnight®",
+			"packagingType": "YOUR_PACKAGING",
+			"commit": {
+				"dateDetail": {
+					"dayOfWeek": "Tue",
+					"dayFormat": "2023-05-02T20:00:00"
+				},
+				"derivedOriginDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94587",
+					"serviceArea": "A1",
+					"locationId": "RHVA ",
+					"locationNumber": 0
+				},
+				"derivedDestinationDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94501",
+					"serviceArea": "A1",
+					"locationId": "JBSA ",
+					"locationNumber": 0,
+					"airportId": "OAK"
+				},
+				"saturdayDelivery": false
+			},
+			"ratedShipmentDetails": [
+				{
+					"rateType": "ACCOUNT",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 43.47,
+					"totalBaseCharge": 51.38,
+					"totalNetCharge": 22.43,
+					"totalNetFedExCharge": 22.43,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 194,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 5.87,
+						"totalFreightDiscount": 34.82,
+						"freightDiscount": [
+							{
+								"type": "VOLUME",
+								"description": "Volume discount",
+								"amount": 29.29,
+								"percent": 57
+							},
+							{
+								"type": "EARNED",
+								"description": "Earned discount",
+								"amount": 5.53,
+								"percent": 12
+							}
+						],
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 2.97
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 2.9
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "1283"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 43.47,
+							"packageRateDetail": {
+								"rateType": "PAYOR_ACCOUNT_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 51.38,
+								"netFreight": 16.56,
+								"totalSurcharges": 5.87,
+								"netFedExCharge": 22.43,
+								"totalTaxes": 0,
+								"netCharge": 22.43,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 34.82,
+								"freightDiscounts": [
+									{
+										"type": "VOLUME",
+										"description": "Base",
+										"amount": 29.29,
+										"percent": 57
+									},
+									{
+										"type": "EARNED",
+										"description": "Grace",
+										"amount": 5.53,
+										"percent": 12
+									}
+								],
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 2.97
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 2.9
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				},
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 51.38,
+					"totalNetCharge": 65.9,
+					"totalNetFedExCharge": 65.9,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 139,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 14.52,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 8.72
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 5.8
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "1283"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 51.38,
+								"netFreight": 51.38,
+								"totalSurcharges": 14.52,
+								"netFedExCharge": 65.9,
+								"totalTaxes": 0,
+								"netCharge": 65.9,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 8.72
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 5.8
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"originLocationIds": [
+					"RHVA "
+				],
+				"originLocationNumbers": [
+					0
+				],
+				"originServiceAreas": [
+					"A1"
+				],
+				"destinationLocationIds": [
+					"JBSA "
+				],
+				"destinationLocationNumbers": [
+					0
+				],
+				"destinationServiceAreas": [
+					"A1"
+				],
+				"destinationLocationStateOrProvinceCodes": [
+					"CA"
+				],
+				"deliveryDate": "2023-05-02T20:00:00",
+				"deliveryDay": "TUE",
+				"commitDate": "2023-05-02T20:00:00",
+				"commitDays": [
+					"TUE"
+				],
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "STD OVR",
+				"originPostalCodes": [
+					"94587"
+				],
+				"stateOrProvinceCodes": [
+					"CA"
+				],
+				"countryCodes": [
+					"US"
+				],
+				"airportId": "OAK",
+				"serviceCode": "05",
+				"destinationPostalCode": "94501"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000005",
+				"serviceType": "STANDARD_OVERNIGHT",
+				"code": "05",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx Standard Overnight®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx Standard Overnight"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx Standard Overnight®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx Standard Overnight"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "SOS"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "SOS"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "SO"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "Standard Overnight",
+				"astraDescription": "STD OVR"
+			},
+			"deliveryStation": "JBSA "
+		},
+		{
+			"serviceType": "GROUND_HOME_DELIVERY",
+			"serviceName": "FedEx Home Delivery®",
+			"packagingType": "YOUR_PACKAGING",
+			"commit": {
+				"dateDetail": {
+					"dayOfWeek": "Tue",
+					"dayFormat": "2023-05-02T23:59:00"
+				},
+				"transitDays": {
+					"minimumTransitTime": "ONE_DAY",
+					"description": "1 Business Day"
+				},
+				"derivedOriginDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94587",
+					"locationNumber": 947
+				},
+				"derivedDestinationDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94501",
+					"locationNumber": 3930,
+					"airportId": "OAK"
+				},
+				"saturdayDelivery": false
+			},
+			"customerMessages": [
+				{
+					"code": "2036",
+					"message": "End of Day"
+				}
+			],
+			"ratedShipmentDetails": [
+				{
+					"rateType": "ACCOUNT",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 12.11,
+					"totalBaseCharge": 13.51,
+					"totalNetCharge": 9.35,
+					"totalNetFedExCharge": 9.35,
+					"shipmentRateDetail": {
+						"rateZone": "2",
+						"dimDivisor": 0,
+						"fuelSurchargePercent": 0,
+						"totalSurcharges": 2.06,
+						"totalFreightDiscount": 6.22,
+						"freightDiscount": [
+							{
+								"type": "VOLUME",
+								"description": "Volume discount",
+								"amount": 3.92,
+								"percent": 0
+							},
+							{
+								"type": "EARNED",
+								"description": "Earned discount",
+								"amount": 2.3,
+								"percent": 17
+							}
+						],
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"level": "PACKAGE",
+								"amount": 0
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential surcharge",
+								"level": "PACKAGE",
+								"amount": 2.06
+							}
+						],
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 12.11,
+							"packageRateDetail": {
+								"rateType": "PAYOR_ACCOUNT_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 13.51,
+								"netFreight": 7.29,
+								"totalSurcharges": 2.06,
+								"netFedExCharge": 9.35,
+								"totalTaxes": 0,
+								"netCharge": 9.35,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 6.22,
+								"freightDiscounts": [
+									{
+										"type": "VOLUME",
+										"description": "Matrix",
+										"amount": 3.92,
+										"percent": 0
+									},
+									{
+										"type": "EARNED",
+										"description": "Grace",
+										"amount": 2.3,
+										"percent": 17
+									}
+								],
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"level": "PACKAGE",
+										"amount": 0
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential surcharge",
+										"level": "PACKAGE",
+										"amount": 2.06
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				},
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 13.51,
+					"totalNetCharge": 21.46,
+					"totalNetFedExCharge": 21.46,
+					"shipmentRateDetail": {
+						"rateZone": "2",
+						"dimDivisor": 0,
+						"fuelSurchargePercent": 15,
+						"totalSurcharges": 7.95,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"level": "PACKAGE",
+								"amount": 2.8
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential surcharge",
+								"level": "PACKAGE",
+								"amount": 5.15
+							}
+						],
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 13.51,
+								"netFreight": 13.51,
+								"totalSurcharges": 7.95,
+								"netFedExCharge": 21.46,
+								"totalTaxes": 0,
+								"netCharge": 21.46,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"level": "PACKAGE",
+										"amount": 2.8
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential surcharge",
+										"level": "PACKAGE",
+										"amount": 5.15
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"originLocationNumbers": [
+					947
+				],
+				"destinationLocationNumbers": [
+					3930
+				],
+				"destinationLocationStateOrProvinceCodes": [
+					"CA"
+				],
+				"deliveryDate": "2023-05-02T23:59:00",
+				"deliveryDay": "TUE",
+				"commitDate": "2023-05-02T23:59:00",
+				"commitDays": [
+					"TUE"
+				],
+				"transitTime": "ONE_DAY",
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "FXH",
+				"originPostalCodes": [
+					"94587"
+				],
+				"stateOrProvinceCodes": [
+					"CA"
+				],
+				"countryCodes": [
+					"US"
+				],
+				"airportId": "OAK",
+				"serviceCode": "90",
+				"destinationPostalCode": "94501"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000133",
+				"serviceType": "GROUND_HOME_DELIVERY",
+				"code": "90",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx Home Delivery®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx Home Delivery"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "Home Delivery®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "Home Delivery"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "HD"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "HD"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "QH"
+					}
+				],
+				"description": "FedEx Home Delivery",
+				"astraDescription": "FXH"
+			}
+		},
+		{
+			"serviceType": "FEDEX_2_DAY_AM",
+			"serviceName": "FedEx 2Day® AM",
+			"packagingType": "YOUR_PACKAGING",
+			"commit": {
+				"dateDetail": {
+					"dayOfWeek": "Wed",
+					"dayFormat": "2023-05-03T12:00:00"
+				},
+				"derivedOriginDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94587",
+					"serviceArea": "A1",
+					"locationId": "RHVA ",
+					"locationNumber": 0
+				},
+				"derivedDestinationDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94501",
+					"serviceArea": "A1",
+					"locationId": "JBSA ",
+					"locationNumber": 0,
+					"airportId": "OAK"
+				},
+				"saturdayDelivery": false
+			},
+			"ratedShipmentDetails": [
+				{
+					"rateType": "ACCOUNT",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 21.39,
+					"totalBaseCharge": 34.73,
+					"totalNetCharge": 25.32,
+					"totalNetFedExCharge": 25.32,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 194,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 6.25,
+						"totalFreightDiscount": 15.66,
+						"freightDiscount": [
+							{
+								"type": "VOLUME",
+								"description": "Volume discount",
+								"amount": 15.66,
+								"percent": 47
+							}
+						],
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 3.35
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 2.9
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "4"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 21.39,
+							"packageRateDetail": {
+								"rateType": "PAYOR_ACCOUNT_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 34.73,
+								"netFreight": 19.07,
+								"totalSurcharges": 6.25,
+								"netFedExCharge": 25.32,
+								"totalTaxes": 0,
+								"netCharge": 25.32,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 15.66,
+								"freightDiscounts": [
+									{
+										"type": "VOLUME",
+										"description": "Base",
+										"amount": 15.66,
+										"percent": 47
+									}
+								],
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 3.35
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 2.9
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				},
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 34.73,
+					"totalNetCharge": 46.71,
+					"totalNetFedExCharge": 46.71,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 139,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 11.98,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 6.18
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 5.8
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "4"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 34.73,
+								"netFreight": 34.73,
+								"totalSurcharges": 11.98,
+								"netFedExCharge": 46.71,
+								"totalTaxes": 0,
+								"netCharge": 46.71,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 6.18
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 5.8
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"originLocationIds": [
+					"RHVA "
+				],
+				"originLocationNumbers": [
+					0
+				],
+				"originServiceAreas": [
+					"A1"
+				],
+				"destinationLocationIds": [
+					"JBSA "
+				],
+				"destinationLocationNumbers": [
+					0
+				],
+				"destinationServiceAreas": [
+					"A1"
+				],
+				"destinationLocationStateOrProvinceCodes": [
+					"CA"
+				],
+				"deliveryDate": "2023-05-03T12:00:00",
+				"deliveryDay": "WED",
+				"commitDate": "2023-05-03T12:00:00",
+				"commitDays": [
+					"WED"
+				],
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "2DAY AM",
+				"originPostalCodes": [
+					"94587"
+				],
+				"stateOrProvinceCodes": [
+					"CA"
+				],
+				"countryCodes": [
+					"US"
+				],
+				"airportId": "OAK",
+				"serviceCode": "49",
+				"destinationPostalCode": "94501"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000023",
+				"serviceType": "FEDEX_2_DAY_AM",
+				"code": "49",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx 2Day® AM"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx 2Day AM"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx 2Day® AM"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx 2Day AM"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "E2AM"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "E2AM"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "TA"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "2DAY AM",
+				"astraDescription": "2DAY AM"
+			},
+			"deliveryStation": "JBSA "
+		},
+		{
+			"serviceType": "FEDEX_2_DAY",
+			"serviceName": "FedEx 2Day®",
+			"packagingType": "YOUR_PACKAGING",
+			"commit": {
+				"dateDetail": {
+					"dayOfWeek": "Wed",
+					"dayFormat": "2023-05-03T20:00:00"
+				},
+				"derivedOriginDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94587",
+					"serviceArea": "A1",
+					"locationId": "RHVA ",
+					"locationNumber": 0
+				},
+				"derivedDestinationDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94501",
+					"serviceArea": "A1",
+					"locationId": "JBSA ",
+					"locationNumber": 0,
+					"airportId": "OAK"
+				},
+				"saturdayDelivery": false
+			},
+			"ratedShipmentDetails": [
+				{
+					"rateType": "ACCOUNT",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 24.02,
+					"totalBaseCharge": 30.4,
+					"totalNetCharge": 17.7,
+					"totalNetFedExCharge": 17.7,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 194,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 5.24,
+						"totalFreightDiscount": 17.94,
+						"freightDiscount": [
+							{
+								"type": "VOLUME",
+								"description": "Volume discount",
+								"amount": 14.29,
+								"percent": 47
+							},
+							{
+								"type": "EARNED",
+								"description": "Earned discount",
+								"amount": 3.65,
+								"percent": 12
+							}
+						],
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 2.34
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 2.9
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "5980"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 24.02,
+							"packageRateDetail": {
+								"rateType": "PAYOR_ACCOUNT_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 30.4,
+								"netFreight": 12.46,
+								"totalSurcharges": 5.24,
+								"netFedExCharge": 17.7,
+								"totalTaxes": 0,
+								"netCharge": 17.7,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 17.94,
+								"freightDiscounts": [
+									{
+										"type": "VOLUME",
+										"description": "Base",
+										"amount": 14.29,
+										"percent": 47
+									},
+									{
+										"type": "EARNED",
+										"description": "Grace",
+										"amount": 3.65,
+										"percent": 12
+									}
+								],
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 2.34
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 2.9
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				},
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 30.4,
+					"totalNetCharge": 41.72,
+					"totalNetFedExCharge": 41.72,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 139,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 11.32,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 5.52
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 5.8
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "5980"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 30.4,
+								"netFreight": 30.4,
+								"totalSurcharges": 11.32,
+								"netFedExCharge": 41.72,
+								"totalTaxes": 0,
+								"netCharge": 41.72,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 5.52
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 5.8
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"originLocationIds": [
+					"RHVA "
+				],
+				"originLocationNumbers": [
+					0
+				],
+				"originServiceAreas": [
+					"A1"
+				],
+				"destinationLocationIds": [
+					"JBSA "
+				],
+				"destinationLocationNumbers": [
+					0
+				],
+				"destinationServiceAreas": [
+					"A1"
+				],
+				"destinationLocationStateOrProvinceCodes": [
+					"CA"
+				],
+				"deliveryDate": "2023-05-03T20:00:00",
+				"deliveryDay": "WED",
+				"commitDate": "2023-05-03T20:00:00",
+				"commitDays": [
+					"WED"
+				],
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "E2",
+				"originPostalCodes": [
+					"94587"
+				],
+				"stateOrProvinceCodes": [
+					"CA"
+				],
+				"countryCodes": [
+					"US"
+				],
+				"airportId": "OAK",
+				"serviceCode": "03",
+				"destinationPostalCode": "94501"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000003",
+				"serviceType": "FEDEX_2_DAY",
+				"code": "03",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx 2Day®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx 2Day"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx 2Day®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx 2Day"
+					},
+					{
+						"type": "short",
+						"encoding": "utf-8",
+						"value": "P-2"
+					},
+					{
+						"type": "short",
+						"encoding": "ascii",
+						"value": "P-2"
+					},
+					{
+						"type": "abbrv",
+						"encoding": "ascii",
+						"value": "ES"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "2Day",
+				"astraDescription": "E2"
+			},
+			"deliveryStation": "JBSA "
+		},
+		{
+			"serviceType": "FEDEX_EXPRESS_SAVER",
+			"serviceName": "FedEx Express Saver®",
+			"packagingType": "YOUR_PACKAGING",
+			"commit": {
+				"dateDetail": {
+					"dayOfWeek": "Thu",
+					"dayFormat": "2023-05-04T20:00:00"
+				},
+				"derivedOriginDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94587",
+					"serviceArea": "A1",
+					"locationId": "RHVA ",
+					"locationNumber": 0
+				},
+				"derivedDestinationDetail": {
+					"countryCode": "US",
+					"stateOrProvinceCode": "CA",
+					"postalCode": "94501",
+					"serviceArea": "A1",
+					"locationId": "JBSA ",
+					"locationNumber": 0,
+					"airportId": "OAK"
+				},
+				"saturdayDelivery": false
+			},
+			"ratedShipmentDetails": [
+				{
+					"rateType": "ACCOUNT",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 20.32,
+					"totalBaseCharge": 27.33,
+					"totalNetCharge": 17.86,
+					"totalNetFedExCharge": 17.86,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 194,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 5.26,
+						"totalFreightDiscount": 14.73,
+						"freightDiscount": [
+							{
+								"type": "VOLUME",
+								"description": "Volume discount",
+								"amount": 12.85,
+								"percent": 47
+							},
+							{
+								"type": "EARNED",
+								"description": "Earned discount",
+								"amount": 1.88,
+								"percent": 12
+							}
+						],
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 2.36
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 2.9
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "7167"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 20.32,
+							"packageRateDetail": {
+								"rateType": "PAYOR_ACCOUNT_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 27.33,
+								"netFreight": 12.6,
+								"totalSurcharges": 5.26,
+								"netFedExCharge": 17.86,
+								"totalTaxes": 0,
+								"netCharge": 17.86,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 14.73,
+								"freightDiscounts": [
+									{
+										"type": "VOLUME",
+										"description": "Base",
+										"amount": 12.85,
+										"percent": 47
+									},
+									{
+										"type": "EARNED",
+										"description": "Grace",
+										"amount": 1.88,
+										"percent": 12
+									}
+								],
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 2.36
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 2.9
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				},
+				{
+					"rateType": "LIST",
+					"ratedWeightMethod": "ACTUAL",
+					"totalDiscounts": 0,
+					"totalBaseCharge": 27.33,
+					"totalNetCharge": 38.18,
+					"totalNetFedExCharge": 38.18,
+					"shipmentRateDetail": {
+						"rateZone": "02",
+						"dimDivisor": 139,
+						"fuelSurchargePercent": 15.25,
+						"totalSurcharges": 10.85,
+						"totalFreightDiscount": 0,
+						"surCharges": [
+							{
+								"type": "FUEL",
+								"description": "Fuel Surcharge",
+								"amount": 5.05
+							},
+							{
+								"type": "RESIDENTIAL_DELIVERY",
+								"description": "Residential delivery surcharge",
+								"amount": 5.8
+							}
+						],
+						"pricingCode": "PACKAGE",
+						"totalBillingWeight": {
+							"units": "LB",
+							"value": 10
+						},
+						"currency": "USD",
+						"rateScale": "7167"
+					},
+					"ratedPackages": [
+						{
+							"groupNumber": 0,
+							"effectiveNetDiscount": 0,
+							"packageRateDetail": {
+								"rateType": "PAYOR_LIST_PACKAGE",
+								"ratedWeightMethod": "ACTUAL",
+								"baseCharge": 27.33,
+								"netFreight": 27.33,
+								"totalSurcharges": 10.85,
+								"netFedExCharge": 38.18,
+								"totalTaxes": 0,
+								"netCharge": 38.18,
+								"totalRebates": 0,
+								"billingWeight": {
+									"units": "LB",
+									"value": 10
+								},
+								"totalFreightDiscounts": 0,
+								"surcharges": [
+									{
+										"type": "FUEL",
+										"description": "Fuel Surcharge",
+										"amount": 5.05
+									},
+									{
+										"type": "RESIDENTIAL_DELIVERY",
+										"description": "Residential delivery surcharge",
+										"amount": 5.8
+									}
+								],
+								"currency": "USD"
+							}
+						}
+					],
+					"currency": "USD"
+				}
+			],
+			"operationalDetail": {
+				"originLocationIds": [
+					"RHVA "
+				],
+				"originLocationNumbers": [
+					0
+				],
+				"originServiceAreas": [
+					"A1"
+				],
+				"destinationLocationIds": [
+					"JBSA "
+				],
+				"destinationLocationNumbers": [
+					0
+				],
+				"destinationServiceAreas": [
+					"A1"
+				],
+				"destinationLocationStateOrProvinceCodes": [
+					"CA"
+				],
+				"deliveryDate": "2023-05-04T20:00:00",
+				"deliveryDay": "THU",
+				"commitDate": "2023-05-04T20:00:00",
+				"commitDays": [
+					"THU"
+				],
+				"ineligibleForMoneyBackGuarantee": false,
+				"astraDescription": "XS",
+				"originPostalCodes": [
+					"94587"
+				],
+				"stateOrProvinceCodes": [
+					"CA"
+				],
+				"countryCodes": [
+					"US"
+				],
+				"airportId": "OAK",
+				"serviceCode": "20",
+				"destinationPostalCode": "94501"
+			},
+			"signatureOptionType": "SERVICE_DEFAULT",
+			"serviceDescription": {
+				"serviceId": "EP1000000013",
+				"serviceType": "FEDEX_EXPRESS_SAVER",
+				"code": "20",
+				"names": [
+					{
+						"type": "long",
+						"encoding": "utf-8",
+						"value": "FedEx Express Saver®"
+					},
+					{
+						"type": "long",
+						"encoding": "ascii",
+						"value": "FedEx Express Saver"
+					},
+					{
+						"type": "medium",
+						"encoding": "utf-8",
+						"value": "FedEx Express Saver®"
+					},
+					{
+						"type": "medium",
+						"encoding": "ascii",
+						"value": "FedEx Express Saver"
+					}
+				],
+				"serviceCategory": "parcel",
+				"description": "Express Saver",
+				"astraDescription": "XS"
+			},
+			"deliveryStation": "JBSA "
+		}
+	],
+	"quoteDate": "2023-04-30",
+	"encoded": false
+}

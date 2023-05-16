@@ -1,0 +1,528 @@
+{
+	"RateResponse": {
+		"Response": {
+			"ResponseStatus": {
+				"Code": "1",
+				"Description": "Success"
+			},
+			"Alert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"TransactionReference": {
+				"CustomerContext": "GetRates"
+			}
+		},
+		"RatedShipment": {
+			"Service": {
+				"Code": "01",
+				"Description": ""
+			},
+			"RatedShipmentAlert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"BillingWeight": {
+				"UnitOfMeasurement": {
+					"Code": "LBS",
+					"Description": "Pounds"
+				},
+				"Weight": "10.0"
+			},
+			"TransportationCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "67.54"
+			},
+			"ServiceOptionsCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "0.00"
+			},
+			"TotalCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "67.54"
+			},
+			"NegotiatedRateCharges": {
+				"TotalCharge": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "67.54"
+				}
+			},
+			"GuaranteedDelivery": {
+				"BusinessDaysInTransit": "1",
+				"DeliveryByTime": "10:30 A.M."
+			},
+			"RatedPackage": {
+				"TransportationCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "67.54"
+				},
+				"ServiceOptionsCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "0.00"
+				},
+				"TotalCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "67.54"
+				},
+				"Weight": "10.0",
+				"BillingWeight": {
+					"UnitOfMeasurement": {
+						"Code": "LBS",
+						"Description": "Pounds"
+					},
+					"Weight": "10.0"
+				}
+			}
+		}
+	}
+}{
+	"RateResponse": {
+		"Response": {
+			"ResponseStatus": {
+				"Code": "1",
+				"Description": "Success"
+			},
+			"Alert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"TransactionReference": {
+				"CustomerContext": "GetRates"
+			}
+		},
+		"RatedShipment": {
+			"Service": {
+				"Code": "02",
+				"Description": ""
+			},
+			"RatedShipmentAlert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"BillingWeight": {
+				"UnitOfMeasurement": {
+					"Code": "LBS",
+					"Description": "Pounds"
+				},
+				"Weight": "10.0"
+			},
+			"TransportationCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "41.05"
+			},
+			"ServiceOptionsCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "0.00"
+			},
+			"TotalCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "41.05"
+			},
+			"NegotiatedRateCharges": {
+				"TotalCharge": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "41.05"
+				}
+			},
+			"GuaranteedDelivery": {
+				"BusinessDaysInTransit": "2"
+			},
+			"RatedPackage": {
+				"TransportationCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "41.05"
+				},
+				"ServiceOptionsCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "0.00"
+				},
+				"TotalCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "41.05"
+				},
+				"Weight": "10.0",
+				"BillingWeight": {
+					"UnitOfMeasurement": {
+						"Code": "LBS",
+						"Description": "Pounds"
+					},
+					"Weight": "10.0"
+				}
+			}
+		}
+	}
+}{
+	"RateResponse": {
+		"Response": {
+			"ResponseStatus": {
+				"Code": "1",
+				"Description": "Success"
+			},
+			"Alert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"TransactionReference": {
+				"CustomerContext": "GetRates"
+			}
+		},
+		"RatedShipment": {
+			"Service": {
+				"Code": "03",
+				"Description": ""
+			},
+			"RatedShipmentAlert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"BillingWeight": {
+				"UnitOfMeasurement": {
+					"Code": "LBS",
+					"Description": "Pounds"
+				},
+				"Weight": "10.0"
+			},
+			"TransportationCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "21.43"
+			},
+			"ServiceOptionsCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "0.00"
+			},
+			"TotalCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "21.43"
+			},
+			"NegotiatedRateCharges": {
+				"TotalCharge": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "10.13"
+				}
+			},
+			"RatedPackage": {
+				"TransportationCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "21.43"
+				},
+				"ServiceOptionsCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "0.00"
+				},
+				"TotalCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "21.43"
+				},
+				"Weight": "10.0",
+				"BillingWeight": {
+					"UnitOfMeasurement": {
+						"Code": "LBS",
+						"Description": "Pounds"
+					},
+					"Weight": "10.0"
+				}
+			}
+		}
+	}
+}{
+	"RateResponse": {
+		"Response": {
+			"ResponseStatus": {
+				"Code": "1",
+				"Description": "Success"
+			},
+			"Alert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"TransactionReference": {
+				"CustomerContext": "GetRates"
+			}
+		},
+		"RatedShipment": {
+			"Service": {
+				"Code": "12",
+				"Description": ""
+			},
+			"RatedShipmentAlert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"BillingWeight": {
+				"UnitOfMeasurement": {
+					"Code": "LBS",
+					"Description": "Pounds"
+				},
+				"Weight": "10.0"
+			},
+			"TransportationCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "34.36"
+			},
+			"ServiceOptionsCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "0.00"
+			},
+			"TotalCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "34.36"
+			},
+			"NegotiatedRateCharges": {
+				"TotalCharge": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "34.36"
+				}
+			},
+			"GuaranteedDelivery": {
+				"BusinessDaysInTransit": "3"
+			},
+			"RatedPackage": {
+				"TransportationCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "34.36"
+				},
+				"ServiceOptionsCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "0.00"
+				},
+				"TotalCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "34.36"
+				},
+				"Weight": "10.0",
+				"BillingWeight": {
+					"UnitOfMeasurement": {
+						"Code": "LBS",
+						"Description": "Pounds"
+					},
+					"Weight": "10.0"
+				}
+			}
+		}
+	}
+}{
+	"RateResponse": {
+		"Response": {
+			"ResponseStatus": {
+				"Code": "1",
+				"Description": "Success"
+			},
+			"Alert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"TransactionReference": {
+				"CustomerContext": "GetRates"
+			}
+		},
+		"RatedShipment": {
+			"Service": {
+				"Code": "13",
+				"Description": ""
+			},
+			"RatedShipmentAlert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"BillingWeight": {
+				"UnitOfMeasurement": {
+					"Code": "LBS",
+					"Description": "Pounds"
+				},
+				"Weight": "10.0"
+			},
+			"TransportationCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "65.41"
+			},
+			"ServiceOptionsCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "0.00"
+			},
+			"TotalCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "65.41"
+			},
+			"NegotiatedRateCharges": {
+				"TotalCharge": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "65.41"
+				}
+			},
+			"GuaranteedDelivery": {
+				"BusinessDaysInTransit": "1"
+			},
+			"RatedPackage": {
+				"TransportationCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "65.41"
+				},
+				"ServiceOptionsCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "0.00"
+				},
+				"TotalCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "65.41"
+				},
+				"Weight": "10.0",
+				"BillingWeight": {
+					"UnitOfMeasurement": {
+						"Code": "LBS",
+						"Description": "Pounds"
+					},
+					"Weight": "10.0"
+				}
+			}
+		}
+	}
+}{
+	"RateResponse": {
+		"Response": {
+			"ResponseStatus": {
+				"Code": "1",
+				"Description": "Success"
+			},
+			"Alert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"TransactionReference": {
+				"CustomerContext": "GetRates"
+			}
+		},
+		"RatedShipment": {
+			"Service": {
+				"Code": "14",
+				"Description": ""
+			},
+			"RatedShipmentAlert": [
+				{
+					"Code": "110971",
+					"Description": "Your invoice may vary from the displayed reference rates"
+				},
+				{
+					"Code": "110920",
+					"Description": "Ship To Address Classification is changed from Commercial to Residential"
+				}
+			],
+			"BillingWeight": {
+				"UnitOfMeasurement": {
+					"Code": "LBS",
+					"Description": "Pounds"
+				},
+				"Weight": "10.0"
+			},
+			"TransportationCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "101.52"
+			},
+			"ServiceOptionsCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "0.00"
+			},
+			"TotalCharges": {
+				"CurrencyCode": "USD",
+				"MonetaryValue": "101.52"
+			},
+			"NegotiatedRateCharges": {
+				"TotalCharge": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "101.52"
+				}
+			},
+			"GuaranteedDelivery": {
+				"BusinessDaysInTransit": "1",
+				"DeliveryByTime": "8:00 A.M."
+			},
+			"RatedPackage": {
+				"TransportationCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "101.52"
+				},
+				"ServiceOptionsCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "0.00"
+				},
+				"TotalCharges": {
+					"CurrencyCode": "USD",
+					"MonetaryValue": "101.52"
+				},
+				"Weight": "10.0",
+				"BillingWeight": {
+					"UnitOfMeasurement": {
+						"Code": "LBS",
+						"Description": "Pounds"
+					},
+					"Weight": "10.0"
+				}
+			}
+		}
+	}
+}

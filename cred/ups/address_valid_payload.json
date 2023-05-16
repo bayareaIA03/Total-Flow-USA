@@ -1,0 +1,15 @@
+{
+    "XAVRequest": {
+        "AddressKeyFormat": {
+            "ConsigneeName": "Mr. President",
+            "AddressLine": [
+                "31770 Alvarado blvd",
+                "Apt 122"
+            ],
+            "PoliticalDivision2": "Union City",
+            "PoliticalDivision1": "CA",
+            "PostcodePrimaryLow": "94587",
+            "CountryCode": "US"
+        }
+    }
+}

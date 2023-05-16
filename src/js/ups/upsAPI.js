@@ -6,9 +6,9 @@ const { rate_class, rate_data } = require('../rateClass.js');
 
 const headers = {
     'Content-Type': 'application/json',
-    'AccessLicenseNumber': '7DCFDED8F2B34774',
-    'Username': 'totalflowmuffler',
-    'Password': 'AA85208520$a'
+    'AccessLicenseNumber': '',
+    'Username': '',
+    'Password': ''
   };
 
   const services = [

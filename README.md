@@ -13,4 +13,11 @@ Attributes of this program:
 5)  all types of rates, with personal discount, will be presented
 
 
-Note : Updated version for this program is coming soon.
+## Welcome to Shippo ##
+
+#### Run Server ####
+source environment.sh
+npm run fedex_start
+
+#### Run Selenium ####
+npm run selenium_run
